@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [Customer-Retirement-Prediction](https://github.com/Hassan3924/Customer-Retirement-Prediction.git)
+- 🔭 I’m currently working on [Optimizing Ship Scheduling]
 
-- 🌱 I’m currently learning **Advanced Deep Learning in Pytorch**
+- 🌱 I’m currently learning **Advanced Deep Learning in Pytorch** **Word Press** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hassan3924](https://github.com/Hassan3924)
 
-- 💬 Ask me about **Data visualization, statistics, data cleaning, machine learning techniques, etc**
+- 💬 Ask me about **Data visualization, statistics, data cleaning, machine learning techniques, web development, etc**
 
 - 📫 How to reach me **hassanghauri3924@gmail.com**
 
