@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [Optimizing Ship Scheduling]
+- 🔭 I’m currently working on **Optimizing Ship Scheduling**
 
 - 🌱 I’m currently learning **Advanced Deep Learning in Pytorch** **Word Press** 
 
