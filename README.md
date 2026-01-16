@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Optimizing Ship Scheduling**
 
-- 🌱 I’m currently learning **Advanced Deep Learning in Pytorch** **Word Press** 
+- 🌱 I’m currently learning **Advanced Deep Learning in Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hassan3924](https://github.com/Hassan3924)
 
